@@ -1,6 +1,6 @@
 # Modern Snake Pro 🐍
 
-A sleek, modern, and highly polished Snake game built with Python and Pygame. This project focuses on delivering a visually appealing "game-feel" while keeping the underlying source code clean, efficient, and lightweight (under 115 lines!).
+A sleek, modern, and highly polished Snake game built with Python and Pygame. This project focuses on delivering a visually appealing "game-feel" while keeping the underlying source code clean, efficient, and lightweight.
 
 ## ✨ Features
 
